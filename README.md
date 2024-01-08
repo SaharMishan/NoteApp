@@ -2,7 +2,7 @@
 <h1>NoteApp</h1>
 <hr><h2>General Information</h2>
 <hr><ul>
-<li>Note App it`s an application for managing your tasks.</li>
+<li>An application for managing notes and tasks. The application allows the user to create a new note, edit and delete. In addition, the user can add his own tags related to the topic of the note relevant to him and also edit his tags and remove them. In addition, I experimented with adding a Dark/Light Mode feature in order to create a better customer experience and it taught me how to implement it in my next projects. Built with React Typescript.</li>
 <li>Live Demo: https://react-typescript-note-app-saharmishan.netlify.app/</li>
 </ul>
  
